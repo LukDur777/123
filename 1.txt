@@ -1,0 +1,25 @@
+echo<<<END
+
+    <h2>Posumowanie zamowienia </h2>
+    <table border="1" cellpadding="10" cellspacing="0"
+    <tr>
+    <td>roglyk (1.2PLN/szt)</td><td>$roglyk</td>
+    </tr>
+    ?>
+    <tr>
+    <td>bulki (0.66PLN/szt)</td><td>$bulki</td>
+    </tr>
+    ?>
+    <tr>
+    <td>soki (1.4PLN/szt)</td><td>$soki</td>
+    </tr>
+    <tr>
+        <td>SUMA</td><td>$suma PLN</td>
+    </tr>
+    </table>
+    <br><a href="index.php">Powrot do strony glonjej</a>
+    
+    
+END;
+    ?>    
+    
